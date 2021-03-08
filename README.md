@@ -29,24 +29,24 @@ Este repositório foi criado com o objetivo de compartilhar os exercícios reali
 ### Exercícios entregues
 
 **Módulo 1**
-- [Exercício 1] ()
-- [Exercício 2] ()
-- [Exercício 3] ()
+- [Exercício 1](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%201/Exerc%C3%ADcio%201.c)
+- [Exercício 2](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%201/Exerc%C3%ADcio%202.c)
+- [Exercício 3](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%201/Exerc%C3%ADcio%203.c)
 
 *Os exercícios do módulo 1 foram originalmente escritos em portugol, mas depois refiz em C* 😅
 
 **Módulo 2**
-- [Exercício 1]()
-- [Exercício 2]()
-- [Exercício 3]()
-- [Exercício 4]() 
-- [Exercício 5]()
-- [Exercício 6]()
-- [Exercício 7]()
+- [Exercício 1](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%202/Exerc%C3%ADcio%201.c)
+- [Exercício 2](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%202/Exerc%C3%ADcio%202.c)
+- [Exercício 3](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%202/Exerc%C3%ADcio%203.c)
+- [Exercício 4](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%202/Exerc%C3%ADcio%204.c) 
+- [Exercício 5](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%202/Exerc%C3%ADcio%205.c)
+- [Exercício 6](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%202/Exerc%C3%ADcio%206.c)
+- [Exercício 7](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%202/Exerc%C3%ADcio%207.c)
 
 **Módulo 3**
-- [Exercício 1]()
-- [Exercício 2]()
+- [Exercício 1](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%203/Exercicio1%20Un2.c)
+- [Exercício 2](https://github.com/ludsilva/Estudos-em-C/blob/master/M%C3%B3dulo%203/Exercicio2%20Un2.c)
 
 ## Licença
 
